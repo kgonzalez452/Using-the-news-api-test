@@ -1,0 +1,24 @@
+body{
+    height: auto;
+    
+}
+.box{
+    display: flex;
+    border: 1px solid black;
+    align-content: center;
+}
+.col{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+}
+.container{
+    border: 1px solid black;
+    width: 40%;
+    max-height: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+p{
+
+}

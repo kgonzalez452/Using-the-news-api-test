@@ -1,5 +1,6 @@
 body{
     height: auto;
+    background-color: rgb(72, 164, 192)
     
 }
 .box{
@@ -18,8 +19,14 @@ body{
     max-height: 100%;
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 p{
     border: 1px solid black;
     padding: 0px 1px 15px 11px;
+    background-color: rgb(67, 121, 192);
+}
+h1{
+    font-family: 'Zilla Slab Highlight', cursive;
+    text-align: center; 
 }
